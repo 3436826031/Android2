@@ -1,0 +1,168 @@
+        body{
+        	background-color:#6F471B ;
+				   margin:0 auto;
+				   width: 1200px;
+				   }
+			
+			*{
+				 margin:0;
+				
+			}
+			
+	.w{
+	 float: left;
+	  }
+			
+	 
+			.box{
+				border-color:#CFA754;;
+				border-width: 1px;
+				border-style: solid ;
+			}
+			
+			
+			.heard{
+				height: 60px;
+			}
+			
+			
+			.menu{
+				width: 100%;
+				float: left;
+				border-bottom: solid;
+				border-top: solid;
+				border-top-width: 1px;
+				border-bottom-width: 1px;
+				border-color:#CFA754;;
+			}
+			
+			
+			.menulist{
+			    float: left;
+				width: 250px;
+				font-size: 14px;
+			}
+			
+			
+			.menulist ul li {
+				color: #CFA754;
+			     padding: 4px 0;
+			}
+			
+			.menulist ul{
+				padding: 18px 80px;
+			}
+			
+			.menulist ul li a{
+				text-decoration: none;
+				color: #CFA754;
+				display: block;		
+			}
+			
+
+			.zhong img{
+				width: 100%;
+			}
+			
+			
+			.right{
+				height: 380px;
+				width: 930px;
+				border-left-width: 1px;
+			    border-left: solid;
+				border-color:#CFA754;;
+				float: right;
+				
+			}
+			
+			
+			.right img{
+				float: left;
+			}
+			
+			.right span{
+				color: white;
+				padding-left: 20px;
+			}
+			
+			
+			.footer{
+				margin-top: 20px;
+				text-align: center;
+				 width: 100%; 
+				 height: 60px; 
+				 float: right;
+			}
+			
+			.shanmian{
+			      float: left;
+				  margin-left: 80px;
+				  width: 100%; 
+			}
+			
+			
+			.wz{
+				float: left;
+				margin-left: 180px;
+			}
+			.footer span{
+				margin-top: 20px;
+				color: white;
+				font-size: 12px;
+			}
+		 
+			
+			.righttop{
+			    padding-top: 10px;
+		        border-bottom-style: dotted;
+				padding-bottom: 2px;
+				border-color:#CFA754;;
+			}
+			
+			
+			
+			.right p{
+				
+				
+				padding-left: 10px;
+				padding-bottom: 10px;
+				color: white;
+				
+			}
+			
+
+       .box2{
+	
+       margin-right: 150px;
+       width: 430px;
+      height: 310px;
+	  float: right;
+	  border: solid;
+	  border-style:double;
+	  border-color:#CFA754;;
+       }
+
+.box2 span{
+	
+	color: white;
+	
+}
+
+.box2 input
+{
+	background-image:url(../images/dot.jpg) ;
+	margin-bottom: 9px;
+	
+}
+
+
+.box2 span{
+	font-size: 12px;
+	
+}
+
+#button{
+	color: red;
+	margin-left: 80px;
+	
+}
